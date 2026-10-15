@@ -1,0 +1,25 @@
+# Build output
+/build/
+/cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CTestTestfile.cmake
+Makefile
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+*.exe
+*.pdb
+
+# IDE files
+.vs/
+.vscode/
+.idea/
+
+# Generated output / local test media
+/output/
+/media/
+*.log
